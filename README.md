@@ -1,2 +1,2 @@
 # Fedora-contribution
-Refacctoring hacky code
+Refactoring hacky code
